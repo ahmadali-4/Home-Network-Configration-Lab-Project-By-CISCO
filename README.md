@@ -103,6 +103,26 @@ From this project, I learned several valuable lessons and skills that are essent
 
 These skills and insights are not only applicable to home networks but also provide a foundation for managing larger, more complex network environments.
 
+Images:
+![1](https://github.com/ahmadali-4/Networking/assets/118281421/0002ab81-7a9a-4696-8d54-40b106dc5573)
+![2](https://github.com/ahmadali-4/Networking/assets/118281421/9cbbce5f-00eb-4e1f-982c-ae381db81c27)
+![3](https://github.com/ahmadali-4/Networking/assets/118281421/d949f56a-f512-48e1-9f87-ab924c80e81b)
+![4](https://github.com/ahmadali-4/Networking/assets/118281421/f9c3a9f1-b3b8-430f-a9a6-e5da0bfe8caa)
+![5](https://github.com/ahmadali-4/Networking/assets/118281421/93b38829-a358-4323-b063-439628cb1a6c)
+![6](https://github.com/ahmadali-4/Networking/assets/118281421/860d5657-4214-492f-bc00-c1840d3b36dd)
+![7](https://github.com/ahmadali-4/Networking/assets/118281421/e8420e37-86af-4591-a9e5-8fe0e626330a)
+![8](https://github.com/ahmadali-4/Networking/assets/118281421/a93c68bc-e5d3-4821-b333-94e88f585d5a)
+![9](https://github.com/ahmadali-4/Networking/assets/118281421/3ec8703a-da9d-4b0f-beca-f35b7ada8ed6)
+![10](https://github.com/ahmadali-4/Networking/assets/118281421/0d15cf7c-acd5-416b-91d9-fc86cd78192f)
+![12](https://github.com/ahmadali-4/Networking/assets/118281421/3faad5de-3c52-440e-9163-8ea8e03269e3)
+![13](https://github.com/ahmadali-4/Networking/assets/118281421/48e13192-01e2-4523-92f3-cb0f4413b2b6)
+![14](https://github.com/ahmadali-4/Networking/assets/118281421/c21e8c68-7672-40ae-b0ae-575e7dff4e5d)
+![15](https://github.com/ahmadali-4/Networking/assets/118281421/69e0d656-261a-4659-a498-e88517239f6c)
+![16](https://github.com/ahmadali-4/Networking/assets/118281421/6e9e5362-4343-4891-b2a0-6f852ab8aee8)
+![17](https://github.com/ahmadali-4/Networking/assets/118281421/0afe1748-6fb2-42d9-8013-c6043e9a8ee0)
+![18](https://github.com/ahmadali-4/Networking/assets/118281421/dd197a4b-fca9-4ca0-8212-275ec6889550)
+![19](https://github.com/ahmadali-4/Networking/assets/118281421/ebc1dd9a-da1f-49fd-8b0b-c19c15afb58c)
+![20](https://github.com/ahmadali-4/Networking/assets/118281421/b9aa4577-b885-4a95-af39-4c81c085377a)
 
 
 
