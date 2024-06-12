@@ -86,7 +86,21 @@ Here's the process I followed to configure IP addressing for the PCs and laptop,
    I opened the IP Configuration on the Bedroom PC and set it to DHCP. I verified that it received an IP address starting with 192.
 * ##### Testing Internet Access:
    I then opened the Web Browser on the Bedroom PC, navigated to skillsforall.srv, and clicked Fast Forward Time until the page loaded, verifying internet connectivity.
-
+## Key Learnings from the Network Setup Project
+From this project, I learned several valuable lessons and skills that are essential for setting up and managing home networks:
+* ##### Understanding Network Components:
+   I gained a deeper understanding of how different network components like modems, routers, and switches work together. This knowledge is crucial for troubleshooting and optimizing network performance.
+* ##### Configuring Network Settings:
+   I learned how to access and configure the settings of a wireless router through its GUI. This includes setting up DHCP, adjusting the number of users, and securing the network with passwords.
+* ##### Network Security Practices:
+   The importance of changing default passwords and setting up strong wireless encryption (WPA2) to secure the network against unauthorized access was a key takeaway.
+* ##### Troubleshooting Connectivity Issues:
+   I practiced troubleshooting connectivity issues by verifying IP addresses and using tools like 'Fast Forward Time' to simulate network changes and speed up DHCP assignments.
+* ##### Practical Application of Theoretical Knowledge:
+   Applying theoretical knowledge about IP addressing and network configuration in a practical scenario helped solidify my understanding and gave me hands-on experience.
+* ##### Importance of Detailed Documentation:
+   I learned the importance of maintaining detailed documentation throughout the setup process. This is crucial for future troubleshooting and for others who might work on the network.
+These skills and insights are not only applicable to home networks but also provide a foundation for managing larger, more complex network environments.
 
 
 
