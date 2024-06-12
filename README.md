@@ -30,7 +30,39 @@ Here's how I would describe the steps as I perform them, focusing on connecting 
 * ##### Connecting the Bedroom PC:
    Following the same steps, I connect the Bedroom PC by plugging one end of another Ethernet cable into the FastEthernet0 port of the PC. I then connect the other end to the GigabitEthernet 2 port on the Home Wireless Router.
 
-By following these steps, I have successfully set up a wired network that connects both PCs in Natsumi’s home to the internet via the cable TV provider network, ensuring stable and reliable internet and network access.
+By following these steps, I have successfully set up a wired network that connects both PCs in house to the internet via the cable TV provider network, ensuring stable and reliable internet and network access.
+
+### Part 2: Configure the Wireless Router
+Here's how I went about configuring the wireless router in Natsumi's network:
+#### Step 1: Access the home wireless router GUI.
+* ##### Opening IP Configuration:
+   On the Office PC, I clicked the Desktop tab and then the IP Configuration.
+* ##### Enabling DHCP:
+   I selected DHCP to automatically configure the IP settings to match the Home Wireless Router's network.
+* ##### Updating IP Configuration:
+   After a brief wait, I checked if the IPv4 address updated to start with 192. I clicked Fast Forward Time to speed up the DHCP process as needed.
+* ##### Noting the Default Gateway:
+   I made a note of the default gateway address, which is the Home Wireless Router's IP address.
+* ##### Accessing the Router's GUI:
+   I opened the Web Browser, entered the default gateway IP address into the URL box, and hit Go. Using the default credentials 'admin' for both username and password, I accessed the router's GUI.
+#### Step 2: Configure basic settings.
+* ##### Setting DHCP Limits:
+   In the Setup tab under Network Setup, I found the DHCP server settings. I set the Maximum Number of Users to 10 and saved the settings. This helps secure the network in a densely populated area.
+* ##### Changing Admin Password:
+   Next, I navigated to the Administration tab, changed the default password to MyPassword1!, and saved. I logged in again using the new credentials to confirm the change.
+#### Step 3: Configure a wireless LAN.
+* ##### Activating the Wireless Network:
+   I clicked on the Wireless tab and enabled the 2.4 GHz network by selecting Enable.
+* ##### Setting the Network Name:
+   I changed the Network Name (SSID) from Default to MyHome and saved the settings. This name will appear when searching for Wi-Fi networks.
+* ##### Securing the Network:
+   Under the Wireless Security settings, I selected WPA2 Personal for the 2.4 GHz network, ensuring the strongest available security.
+* ##### Configuring the Passphrase:
+   I set the passphrase to MyPassPhrase1! to secure the network, making sure to note the importance of capitalization.
+* ##### Finalizing Settings:
+   After saving all the settings, I closed the Web Browser on the Office PC.
+By following these steps, I successfully configured Natsumi's wireless router to provide a secure and functional home network.
+
 
 
 
