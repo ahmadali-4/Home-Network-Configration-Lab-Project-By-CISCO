@@ -63,6 +63,30 @@ Here's how I went about configuring the wireless router in Natsumi's network:
    After saving all the settings, I closed the Web Browser on the Office PC.
 By following these steps, I successfully configured Natsumi's wireless router to provide a secure and functional home network.
 
+### Part 3: Configure IP Addressing and Test Connectivity
+Here's the process I followed to configure IP addressing for the PCs and laptop, and to verify their connectivity to the internet:
+#### Step 1: Connect the laptop to the wireless network.
+* ##### Accessing Wireless Settings:
+   On the Laptop located in the living room, I clicked on the Desktop tab and then on PC Wireless.
+* ##### Connecting to the Network:
+   I clicked the Connect tab, waited briefly, and then selected the wireless network named MyHome that I had set up earlier.
+* ##### Entering Passphrase:
+   I entered the passphrase MyPassPhrase1! in the Pre-shared Key field and clicked Connect.
+* ##### Verifying Connection:
+   After connecting, I clicked on the Link Information tab to confirm the successful connection to the access point. I checked the More Information for IP details; I used Fast Forward Time to ensure the IP address started with 192.
+* ##### Testing Internet Access:
+   Finally, I opened the Web Browser on the Laptop and navigated to skillsforall.srv to confirm internet connectivity, using Fast Forward Time as needed for the page to load.
+#### Step 2: Test connectivity from the Office PC.
+* ##### Opening Web Browser:
+   On the Office PC, I clicked the Desktop tab and opened the Web Browser.
+* ##### Verifying Internet Access:
+   I entered skillsforall.srv in the URL box and clicked Go. The webpage loaded after a brief delay, confirming that the Office PC was connected to the internet. I used Fast Forward Time to speed up the process.
+#### Step 3: Configure the Bedroom PC.
+* ##### Setting IP Configuration:
+   I opened the IP Configuration on the Bedroom PC and set it to DHCP. I verified that it received an IP address starting with 192.
+* ##### Testing Internet Access:
+   I then opened the Web Browser on the Bedroom PC, navigated to skillsforall.srv, and clicked Fast Forward Time until the page loaded, verifying internet connectivity.
+
 
 
 
