@@ -19,6 +19,21 @@ Following that, I clicked on the Cable Modem and chose Port 0 to establish the i
 I repeated the earlier steps but this time, I connected Coaxial2 from the Cable Splitter to Port 0 on the TV to set up the video service.
 * ##### Activating the TV:
 Finally, I clicked on the TV and then clicked 'ON' for Status. Upon successful connections, an image representing a TV program appeared, confirming that everything was set up correctly.
+#### Step 2: Connect the network cables
+* ##### Accessing Connection Tools:
+   I begin by opening the 'Connections' section and selecting the 'Copper Straight-Through cable', which is represented by a solid black line.
+* ##### Connecting the Cable Modem to the Router:
+   Next, I connect Port 1 on the Cable Modem directly to the Internet port of the Home Wireless Router. This is essential for providing internet access to the network.
+* ##### Connecting the Office PC:
+   I then proceed to the Office PC and plugin the cable to the FastEthernet0 port. I navigate to the Home Wireless Router and connect the other end of the cable to the GigabitEthernet 1 port, establishing the network connection for the office PC.
+* ##### Connecting the Bedroom PC:
+   Following the same steps, I connect the Bedroom PC by plugging one end of another Ethernet cable into the FastEthernet0 port of the PC. I then connect the other end to the GigabitEthernet 2 port on the Home Wireless Router.
+
+By following these steps, I have successfully set up a wired network that connects both PCs in Natsumi’s home to the internet via the cable TV provider network, ensuring stable and reliable internet and network access.
+
+
+
+
 
 
 
