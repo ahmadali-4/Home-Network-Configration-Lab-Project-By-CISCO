@@ -7,7 +7,7 @@
 ### Part 1: Connect the Devices
 In the process of setting up home network, the connection of devices involves two main steps: connecting coaxial cables and network cables.
 #### Step 1: Connecting Coaxial Cables
-##### Accessing the Network Components: 
+* ##### Accessing the Network Components: 
 I started by clicking on the 'Connections' icon, represented by a lightning bolt, in the Network Components section.
 ##### Selecting the Coaxial Cable: 
 Next, I located and clicked on the icon for the Coaxial cable, which is depicted as a blue zigzag line.
