@@ -100,6 +100,7 @@ From this project, I learned several valuable lessons and skills that are essent
    Applying theoretical knowledge about IP addressing and network configuration in a practical scenario helped solidify my understanding and gave me hands-on experience.
 * ##### Importance of Detailed Documentation:
    I learned the importance of maintaining detailed documentation throughout the setup process. This is crucial for future troubleshooting and for others who might work on the network.
+
 These skills and insights are not only applicable to home networks but also provide a foundation for managing larger, more complex network environments.
 
 
